@@ -1,0 +1,23 @@
+{
+  "name": "newcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjacopilot/newcypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjacopilot/newcypress/issues"
+  },
+  "homepage": "https://github.com/ninjacopilot/newcypress#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
